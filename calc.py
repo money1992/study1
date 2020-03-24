@@ -1,8 +1,8 @@
 def add(x, y):
-    pass
+    return x + y
 
 def substract(x, y):
-    pass
+    return x - y
 
 def multiply(x, y):
     pass
